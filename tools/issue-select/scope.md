@@ -36,4 +36,5 @@ you want to avoid. The skill uses this only to RANK the issues your
 rubric accepts, never to change a verdict: fit cannot rescue an issue
 your rubric rejects, and cannot sink one it accepts. -->
 
-(Write a few sentences here.)
+I'm an MSCS student at Sofia University, and I recently worked as a full-stack developer at Walmart (2026). Python is my primary language. I'm taking this AI course to level up my agent and LLM-app skills. I prefer issues with a concrete, bounded scope — a clear bug to reproduce or a small feature with named touch points — over open-ended design work. I'd rather avoid pure infra/DevOps issues or anything needing deep domain expertise I can't pick up quickly.
+
